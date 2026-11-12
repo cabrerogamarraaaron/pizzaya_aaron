@@ -1,4 +1,5 @@
 Carta de PizzaYa: dulce
+Carta de PizzaYa: salada
 
 - Barbacoa: salsa barbacoa, carne y queso.
 - Carbonara: nata, bacon y queso.
